@@ -1,0 +1,10 @@
+Package: hai
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3 (>= 3.6), python3-openai
+Maintainer: Jincoco jincoco88912@gmail.com
+Description: 終端機 AI 助手
+ 提供指令建議的 AI 助手工具，根據用戶輸入給出實用的終端機指令建議。
+ 使用 LLM 模型提供智能化的指令推薦。 
